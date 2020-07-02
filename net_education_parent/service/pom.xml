@@ -71,7 +71,7 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <!--因为我用的mysql版本是5.1.73 所以使用 5.1.8的驱动 配置文件中的数据库驱动不用带cj-->
-            <version>5.1.8</version>
+            <version>8.0.16</version>
         </dependency>
 
         <!-- velocity模板引擎, Mybatis Plus 代码生成器需要 -->
